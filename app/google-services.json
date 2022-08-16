@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364324288024",
+    "project_id": "docreview-e654f",
+    "storage_bucket": "docreview-e654f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364324288024:android:fffb3defc47907c6a2756d",
+        "android_client_info": {
+          "package_name": "com.docreview.docreview_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364324288024-e3h88ldb6pvqbsrd86sv37tis1lh9vb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO_nNhPCkytT0bckkpd-SSwM3kwA3DCFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364324288024-e3h88ldb6pvqbsrd86sv37tis1lh9vb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
