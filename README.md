@@ -8,7 +8,11 @@
 
 Team naam: Lorem Ipsum
 
-Teamleden: Marwan Akhandaf, Mats Bos, Robbe Gillis, Nisrine Moumouh, Ferre Verhaegen, Nick Zegels
+Android Team developer: Marwan Akhandaf
+
+ASP.net web app developers: Robbe Gillis, Ferre Verhagen, Nick Zegels, Nisrine Moumouh
+
+Deployment: Mats Bos
 
 Korte Omschrijving
 -------------------
